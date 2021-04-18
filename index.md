@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Achievecorp/domain/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Achievecorp/domain/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!doctype html>
+<html class="no-js">
+<head>
+    <title>Coming soon</title>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,700" rel="stylesheet" type="text/css">
+    <style>
+        html, body {
+            margin: 0;
+            background-color: #1494b2;
+            height: 100%;
+            font-family: "Open Sans", arial, sans-serif;
+            font-size: 1.2rem;
+        }
+        .main-image img {
+            margin: 30px auto;
+            display: block;
+            max-width: 600px;
+            width: 100%;
+        }
+        .content-wrapper {
+            background-color: #323539;
+            color: #fff;
+            overflow: hidden;
+            padding: 30px;
+        }
+        .content-wrapper p {
+            text-align: center;
+            margin-bottom: 5px;
+            margin-top: 0;
+        }
+        .content-wrapper a {
+            color: #ffeb3b;
+            font-weight: 700;
+        }
+        .content-wrapper h1 {
+            text-align: center;
+            margin-top: 0;
+        }
+        .main-container{
+            display: table;
+            width: 100%;
+            height: 100%;
+        }
+        .main-content {
+            display: table-cell;
+            vertical-align:middle;
+        }
+    </style>
+</head>
+<body>
+<div class="main-container">
+    <div class="main-content">
+        <div class="main-image">
+            <img src="https://cdn.managewp.com/maintenance/v1/coming-soon.png" alt="">
+        </div>
+        <div class="content-wrapper">
+            <h1>Thank you for visiting AchieveCorp.com</h1>
+<p>This domain is available for sale. To purchase, call <br>Afternic at +1 781-314-9607 or 844-886-1722. <a href="http://www.afternic.com/forsale?utm_campaign=TDFS_Site&traffic_id=SITE&traffic_type=TDFS" title="Achivecorp.com domain name is for sale">Click here to inquire</a>.</p>
+        </div>
+    </div>
+</div>
+</body>
+</html>
